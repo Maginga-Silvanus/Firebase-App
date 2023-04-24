@@ -3,7 +3,7 @@ package com.example.afternoonfirebasedatabaseapp
 class User {
     var name:String = ""
     var email:String = ""
-    var idNumber = ""
+    var idNumber:String = ""
     var id:String = ""
 
     constructor(name: String, email: String, idNumber: String, id: String) {

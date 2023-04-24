@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62911975284",
+    "project_id": "silvates-2023-app",
+    "storage_bucket": "silvates-2023-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62911975284:android:7e18ebe1ec6774a73f2621",
+        "android_client_info": {
+          "package_name": "com.example.afternoonfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62911975284-br2189j2sbqpbu44d0geb3b6q6gmanu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmDz5mdb_rjC8SCh9fVtSkxh9Vrwv6X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62911975284-br2189j2sbqpbu44d0geb3b6q6gmanu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
